@@ -1,0 +1,5 @@
+2021-07-16 11:00:25.002 [Thread-65] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1fa1cab1: startup date [Thu Jul 15 20:55:07 CST 2021]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@3c46e67a
+2021-07-16 11:00:25.093 [Thread-65] INFO  o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+2021-07-16 11:00:25.118 [Thread-65] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2021-07-16 11:00:25.126 [Thread-65] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans
+2021-07-16 11:00:25.187 [Thread-65] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:2063}] to localhost:27017 because the pool has been closed.
