@@ -1,4 +1,0 @@
-2021-06-29 09:36:49.082 [Thread-67] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@31ff43be: startup date [Mon Jun 28 22:56:58 CST 2021]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@36ebc363
-2021-06-29 09:36:49.142 [Thread-67] INFO  o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
-2021-06-29 09:36:49.167 [Thread-67] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
-2021-06-29 09:36:49.168 [Thread-67] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans

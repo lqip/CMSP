@@ -13,3 +13,4 @@ public class QueryPageRequest {
     // 模版id
     private String templateId;
 }
+

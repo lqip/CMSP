@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9af8adc-5bd6-4d7c-994e-afc8b79f99bb" name="Default Changelist" comment="" />
+    <list default="true" id="e9af8adc-5bd6-4d7c-994e-afc8b79f99bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d:/logs/xc.2021-06-28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d:/logs/xc.2021-06-29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d:/logs/xc.2021-07-08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d:/logs/xc.2021-07-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d:/logs/xc.2021-07-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d:/logs/xc.2021-07-16.log" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1uOIGeFygZV1UGXsuxwjbPRvIZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
@@ -40,9 +53,10 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -169,11 +183,23 @@
       <workItem from="1625811435566" duration="2173000" />
       <workItem from="1626353661728" duration="382000" />
       <workItem from="1626891864453" duration="98000" />
+      <workItem from="1629356543766" duration="3249000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
